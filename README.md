@@ -1,1 +1,2 @@
 # orthoptic-finder
+this code is written in python and uses symbolic calculus and algebra from the sympy library along with some math to find numerical approximations of the orthoptics of curves in R^n, orthoptics are curves that result from the set of all intersections of perpendicular tangents on the same curve. This code also contains programs for animating how perpendicular tangents trace out the orthoptic as they move around the curve for 2 and 3 dimensional curves using matplotlib   
